@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name":"SparkleVenture",
+    "description":" Sparkle Venture este ca un târg de evenimente 24/24",
+    "image":"logopic.png",
+    "bio":"Conceptul de platformă online cu toate serviciile pentru evenimente într-un singur loc nu este nou. De ani buni este poate cea mai facilă metodă folosită de milioane de oameni în multe țări din Occident și din Statele Unite",
+    "contactmessage":"Lasă-ne un mesaj și spune-ne cum te putem ajuta",
+    "email": "sparkleventure@gmail.com",
+    "phone": "555-555-5555",
+    "website": "http://www.sparkleventure.com",
+    "resumedownload":"http://sparkleventure.com",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"http://facebook.com",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"google-plus",
+        "url":"http://googleplus.com",
+        "className":"fa fa-google-plus"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com",
+        "className":"fa fa-instagram"
+      },
+    
+      {
+        "name":"skype",
+        "url":"http://skype.com",
+        "className":"fa fa-skype"
+      }
+    ]
+  },
+  "categorii":{
+    "skillmessage":"De la tort de nuntă, tort de botez, tort de nuntă și botez sau tort pentru majorat pe fiestador.ro găsești tot ce ai nevoie indiferent de eveniment.Deoarece colaborăm cu mai mulți parteneri, poți găsi imediat modelul de tort potrivit, indiferent că ești în căutarea unui tort de botez pentru băiat, tort de botez pentru fete sau a clasicului tort al miresei.",
+    "Torturi":[
+      {
+        "cofetarie":"Andalusia",
+        "description":"Torturi, Candy Bar, Fântână cu ciocolată, Prăjituri, Patiserie, Brutărie."
+      },
+      {
+        "cofetarie":"Codrina",
+        "description":"Produse de patiserie de excelență din Napoli și sudul Italiei."
+      }
+    ],
+
+    "sali":[
+      {
+        "sala":"DIAMOND EVENTS",
+        "capacitate": "500",
+        "description":"Sala de evenimente"
+      },
+      {
+        "sala":"GALLA EVENTS",
+        "capacitate": "350",
+        "description":"Sala de evenimente si nunti in Timisoara"
+      }
+    ],
+    
+    "fotovideo":[
+      {
+        "name":"ALEXANDRU HRENIUC",
+        "description":"Foto, Video, Albume digitale, Fotografie subacvatica"
+      },
+      {
+        "name":"ANGHEL BROTHERS",
+        "description":"oto, Video, Blu-Ray, Albume digitale, Albume printate"
+      },
+      {
+        "name":"FANTASY FOTO VIDEO",
+        "description":"Pentru momente unice"
+      },
+      {
+        "name":"FAURITORII DE AMINTIRI",
+        "description":"Foto, Video, Albume printate, Albume digitale, Photobooth, Trash the dress, Save the date"
+      },
+      {
+        "name":"MARIUS ANDRON PHOTOGRAPHY",
+        "description":"Foto, Video, Albume printate, Albume digitale"
+      }
+    ]
+  },
+  "portfolio":{
+    "parteneri": [
+      {
+        "title":"Cofetaria Andalusia",
+        "category":"Torturi",
+        "image":"tort1.jpg"
+      },
+      {
+        "title":"David Suclea",
+        "category":"Foto&Video",
+        "image":"foto1.jpg"
+      },
+
+      {
+        "title":"Anturaj Jardin",
+        "category":"Sala Evenimente",
+        "image":"sala1.jpg"
+        
+      },
+      {
+        "title":"Cofetaria Andalusia",
+        "category":"Torturi",
+        "image":"tort1.jpg"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Este pentru tine dacă îți organizezi singur evenimentul, deși nimeni nu te-a pregătit pentru asta. Dacă ești ceea ce noi numim un ”Maestru Ocazional”: adică faci asta mai puțin cu voie, mai mult de nevoie, dar întotdeauna din dragoste. Pentru partener/parteneră, pentru copilul tău nou-născut sau pentru a sărbători un moment special din viața unui om drag. Nu ți-ai imaginat niciodată că în viața asta vei fi și event-planner, dar iată-te fix în situația asta.",
+        "user":"Kareem Abdul Jabbar"
+      }
+    ]
+  }
+}
